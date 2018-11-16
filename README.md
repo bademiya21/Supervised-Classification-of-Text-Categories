@@ -1,6 +1,6 @@
-### MSO Noise Complaints Classification Supervised Learning
+### Text Categories Classification through Supervised Learning
 
-This repo documents the various approaches I used to conduct supervised learning of noise complaints with categories provided by MSO. The data was labelled by me using Andrew's Text Annotator app. I labelled close to 10000 samples for 5 categories. Though I tried to get equal number of samples per category, the data was heavily biased towards certain categories as illustrated in the bar charts in the notebooks.
+This repo documents the various approaches I used to conduct supervised learning of text categories. 
 
 Some of the approaches:
 
